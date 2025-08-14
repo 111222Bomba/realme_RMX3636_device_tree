@@ -1,0 +1,7 @@
+android_prebuilt {
+    name: "device_realme_RMX3636",
+    srcs: ["BoardConfig.mk", "Android.mk"],
+    vendor: true,
+    arch: "arm64",
+    compile_multilib: "both",
+}
