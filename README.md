@@ -1,0 +1,1 @@
+# realme_RMX3636_device_tree
